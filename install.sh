@@ -226,6 +226,12 @@ echo -e '\033[0m\033[1;32m
 play ratchel.wav
  termimage jester.jpg
  npm audit fix --force
+ cd
+cd Ratchel
+cd termux-banner
+chmod +x install.sh
+./install.sh
+
 
 clear
 exit 0
