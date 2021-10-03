@@ -133,7 +133,7 @@ echo -e '\033[0m\033[1;31m
                                                                 
 \033[0m'
 mv hunter.wav $HOME
-mv jester.jpg $HOME
+mv jester.png $ HOME 
 cd
 cd ..
 cd usr
