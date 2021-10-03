@@ -222,7 +222,7 @@ echo -e '\033[0m\033[1;32m
 ╚═╝░░░░░╚═╝░░╚═╝░╚═════╝░╚══════╝╚═════╝░╚═╝░░╚═╝  ╚═════╝░╚══════╝  ╚═╝░░╚═╝░╚═════╝░╚═════╝░╚═╝░╚════╝░         
  \033[0m'                      
 play ratchel.wav
- termimage jester.png
+ termimage jester.jpg
  npm audit fix --force
 
 clear
