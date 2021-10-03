@@ -66,11 +66,12 @@ echo -e '\033[0m\033[1;36m
 ╚═╝╚═════╝
                                                                                                                      
 \033[0m'
-apt-get install nodejs -y
-apt-get install ffmpeg libwebp -y
-apt-get install wget -y
-apt-get install imagemagick -y
-apt-get install tesseract -y
+
+apt-get install nodejs 
+apt-get install ffmpeg libwebp 
+apt-get install wget 
+apt-get install imagemagick 
+apt-get install tesseract 
 npm i node-tesseract-ocr
 npm i @adiwajshing/baileys@3.4.1
 echo -e '\033[0m\033[1;31m
