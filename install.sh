@@ -56,6 +56,13 @@ echo -e '\033[0m\033[1;32m
 \033[0m'
 apt-get update
 apt-get upgrade
+apt-get install nodejs -y
+apt-get install nodejs
+apt-get install ffmpeg libwebp -y
+apt-get install wget -y
+apt-get install nodejs -y
+apt-get install imagemagick -y
+apt-get install tesseract -y
 echo -e '\033[0m\033[1;36m
 
 ██╗███╗░░██╗░██████╗████████╗░█████╗░██╗░░░░░░█████╗░███╗░░██╗██████╗░░█████╗░  ███╗░░██╗░█████╗░██████╗░███████╗
@@ -100,6 +107,13 @@ echo -e '\033[0m\033[1;31m
 ╚═╝░░░░░╚═╝░░░░░╚═╝░░░░░╚═╝╚═╝░░░░░╚══════╝░╚═════╝░
 
 \033[0m'
+apt-get install nodejs -y
+apt-get install nodejs
+apt-get install ffmpeg libwebp -y
+apt-get install wget -y
+apt-get install nodejs -y
+apt-get install imagemagick -y
+apt-get install tesseract -y
 pkg install pulseaudio
 pkg install sox
 pulse audio -D
