@@ -138,7 +138,7 @@ algunas veces  al usar el install.sh no instala  node no se porque asi que si te
 | :------------: | :---------------------------------------------: |
 |       ✅        |   Expulsar a todos los miembros del grupo             |
 
-| Owner Bot Only  |              Feature                |
+|  Solo propietario de bot |               Característica                 |
 | :------------: | :---------------------------------------------: |
 |       ✅        |   Obtener enlace del grupo                  |
 |       ✅        |   borrar mensajes                |
