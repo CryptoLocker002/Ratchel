@@ -10,7 +10,7 @@ echo -e '\e[1;32m
 
 \e[0m'
 
-rm -r Samu330.json
+rm -r ratchel330.json
 
 sleep 2.0
 
