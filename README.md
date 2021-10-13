@@ -1,6 +1,4 @@
-# Announcement
 
-## *
 <p align="center">
 <img src="https://github.com/CryptoLocker002/Ratchel/blob/main/ratchel.jpg" width="128" height="128"/>
 </p>
