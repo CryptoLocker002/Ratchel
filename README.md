@@ -160,7 +160,7 @@ algunas veces  al usar el install.sh no instala  node no se porque asi que si te
 |       ✅        | 🏴‍☠️̷p̷h̷i̷l̷i̷p̷                                     |
 |       ✅        | 🏴‍☠️̷l̷e̷e̷r̷                                       |
 
-cuento con un pequeño grupo de seguridad informatica donde estare enseñando y compartendo conocimiento  https://chat.whatsapp.com/FduNfEHQ0U3Kc3aME43wY3
+cuento con un pequeño grupo de seguridad informatica donde estare enseñando y compartendo conocimiento  https://chat.whatsapp.com/J33zm5D6crPHz6liWdf08r
 
 ```
 
