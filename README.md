@@ -12,15 +12,7 @@
 ## Clonar este proyecto
 
 ```bash
-> git clone https://github.com/CryptoLocker002/Ratchel
-```
-
-## Solución de problemas
-algunas veces  al usar el install.sh no instala  node no se porque asi que si te da error al instalar node escribe este comandos
-
-```bash
->  pkg install node 
- con este  comandos lograra instalar  node :)
+> git clone https://github.com/CryptoLocker002/Ratchel.git
 ```
 
 ### Uso
@@ -158,7 +150,7 @@ algunas veces  al usar el install.sh no instala  node no se porque asi que si te
 |       ✅        | 🏴‍☠️̷p̷h̷i̷l̷i̷p̷                                     |
 |       ✅        | 🏴‍☠️̷l̷e̷e̷r̷                                       |
 
-cuento con una pequeña comunidad donde compartimos conocimiento
-https://chat.whatsapp.com/J33zm5D6crPHz6liWdf08r
+cuento con un pequeña comunidad donde compartimos conocimiento   https://chat.whatsapp.com/J33zm5D6crPHz6liWdf08r
+
 ```
 
