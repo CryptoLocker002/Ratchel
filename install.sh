@@ -207,7 +207,7 @@ echo -e '\033[0m\033[1;32m
 
  \033[0m'
 cd
-cd Ratchel-termux
+cd Ratchel
 cd termux-banner
 chmod +x install.sh
 ./install.sh
